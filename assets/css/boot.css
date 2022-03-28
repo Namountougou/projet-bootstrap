@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Lobster&family=Merriweather+Sans:ital,wght@0,300;0,400;1,300&family=Poppins:wght@400;500;700&family=Redressed&display=swap");
+ 
+.logo{
+    height: 4rem;
+    width: 4rem;
+    margin-left: 5rem;
+}
+.cc-navbar{
+    background-color: #00c4c1;
+    color: black;
+    font-weight: bold;
+}
+.nav-item {
+    margin-left: 6rem !important;
+}
